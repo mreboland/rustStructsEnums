@@ -148,3 +148,5 @@ fn main() {
     assert_eq!(client_request_2.transmission, Transmission::SemiAuto);
     assert_eq!(client_request_2.convertible, false);
 }
+
+// https://www.reddit.com/r/rust/comments/93valt/differences_between_struct_and_enum/
